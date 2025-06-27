@@ -29,7 +29,7 @@ musica.loop = true
 let tempoDecorridoEmSegundos = 60 * 25
 let intervaloId = null
 
-/*********************** Botões de foco, curto e longo ***********************/
+/*********************** Botões de foco, curto e longo *********************/
 
 focoBotao.addEventListener('click', () => {
     tempoDecorridoEmSegundos = 60 * 25
