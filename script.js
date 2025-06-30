@@ -67,6 +67,12 @@ botaoAparecerFormMinutos.addEventListener('click', () => {
     formMinutos.classList.toggle('hidden')
 })
 
+const botaoCancelar = document.querySelector('.botao-cancelar')
+
+botaoCancelar.addEventListener('click', () => {
+    formMinutos.classList.toggle('hidden')
+})
+
 formMinutos.addEventListener('submit', (evento) => {
     evento.preventDefault()
 })
