@@ -166,7 +166,7 @@ function zerar() {
     tempoNaTela()
 }
 
-/*********************** Atualizar tempo na tela ***********************/
+/*********************** Atualizar tempo na tela ****************************/
 
 function tempoNaTela() {
     const minutos = Math.floor(tempoDecorridoEmSegundos / 60)
