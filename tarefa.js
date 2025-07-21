@@ -81,7 +81,7 @@ e será atualizado dentro do localStorage também
 ' && ' = tem a funcionalidade de dar outro parâmetro para a função ser executada, como se fosse um "e" ou "and"
 
 debugger = Abre o devtools e executa uma linha por vez
-*/
+******/
 
 })
 
