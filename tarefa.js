@@ -53,7 +53,7 @@ function criarTarefa (tarefa) {
   const botao = document.createElement('button')
   botao.classList.add('app_button-edit')
   const imagemBotao = document.createElement('img')
-  imagemBotao.setAttribute('src', 'img/edit.png')
+  imagemBotao.setAttribute('src', 'img/edit.png') //possível erro no GitPages
 
 botao.addEventListener ('click', () => {
   //debugger

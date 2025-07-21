@@ -98,7 +98,7 @@ function alterarContexto(contexto) {
     botoes.forEach((btn) => btn.classList.remove('active'))
     trocaDeModo.play()
     html.setAttribute('data-contexto', contexto)
-    banner.setAttribute('src', `/imagens/${contexto}.png`)
+    banner.setAttribute('src', `img/${contexto}.png`)
 
     switch (contexto) {
         case 'foco':

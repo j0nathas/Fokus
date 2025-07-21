@@ -35,7 +35,7 @@ html {
 
 body {
     min-height: 100vh;
-    background: url("img/pattern.png");
+    background: url("img/pattern.png"); /* Possível erro no gitPages */
     background-size: cover;
     background-repeat: no-repeat;
 }
