@@ -61,5 +61,13 @@ Este projeto foi desenvolvido **apenas para fins educacionais** e prática pesso
 ---
 
 <img src="fotos_gif_readme/descanso-longo.png" width="800">
+
+---
+
+<img src="fotos_gif_readme/tarefas.png" width="800">
+
+---
+
+<img src="fotos_gif_readme/adicionar-editar-remover.png" width="800">
 </div>
 
